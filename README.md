@@ -30,7 +30,7 @@ Soy desarrollador FullStack con dominio en JavaScript, React y Node.js.
 
 
 ## Un poco de Todo!!  
-<table><tr><td valign="top" width="100%">
+
 
 - 🔭Estoy trabajando en mi portafolio [Github Profilinator](https://github.com/Josemfigueroa04)  
   
