@@ -11,7 +11,7 @@
 
 
 
-### Encantada de verte aquí! 
+### Encantado de verte aquí! 
 Soy desarrollador FullStack con dominio en JavaScript, React y Node.js.
 
 
