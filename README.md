@@ -11,18 +11,16 @@
 
 
 
-### Glad to see you here!  
+### Encantada de verte aquí! 
 Soy desarrollador FullStack con dominio en JavaScript, React y Node.js.
 
 
 ⚙ Habilidades Tecnicas
-✨New: Next.js | Apollo | GraphQL
-
-React | Redux | JavaScript | Node.js | Express | Sequelize | PostgresSQL | Python | HTML5 | CSS3 | JavaScript | Git | 
+✨React | Redux | JavaScript | Node.js | Express | Sequelize | PostgresSQL | Python | HTML5 | CSS3 | JavaScript | Git |Next.js | Apollo | GraphQL| 
 
 
 💼Experiencia
-👨‍💻 Actualmente - Desarrollador de aplicaciones web en React, Redux, Apollo, GraphQL, Node.js, 
+👨‍💻 Actualmente - Desarrollador de aplicaciones web en React, Redux, Apollo, GraphQL, Node.js,
 
 📬Información de contacto
 📧 josemfigueroa04@gmail.com  
@@ -31,7 +29,7 @@ React | Redux | JavaScript | Node.js | Express | Sequelize | PostgresSQL | Pytho
 <br/>  
 
 
-## Rapidfire  
+## Un poco de Todo!!  
 <table><tr><td valign="top" width="50%">
 
 - 🔭Estoy trabajando en mi portafolio [Github Profilinator](https://github.com/Josemfigueroa04)  
@@ -55,7 +53,7 @@ React | Redux | JavaScript | Node.js | Express | Sequelize | PostgresSQL | Pytho
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Tecnologias!!  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
